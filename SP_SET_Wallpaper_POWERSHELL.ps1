@@ -1,9 +1,9 @@
-﻿#-------------------------------------------------------------------#
+#-------------------------------------------------------------------#
 # ScriptName : SP_SET_Wallpaper_POWERSHELL.ps1                      #
 # Description : Force a Desktop wallpaper Refresh                   #
 # Credits  : Unknown (if you know original creator, let us know)    #
 #                                                                   #
-# Date : 28 April2020                                               #
+# Date : 2023                                                       #
 #-------------------------------------------------------------------#
 
 #Modify Path to the picture accordingly to reflect your infrastructure
